@@ -1,0 +1,9 @@
+django
+djangorestframework
+environs 
+mysqlclient
+whitenoise
+dj-database-url
+psycopg[binary]
+django-environ
+python-dotenv
