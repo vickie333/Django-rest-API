@@ -1,9 +1,7 @@
-django
+Django==5.2.6
 djangorestframework
-environs 
-mysqlclient
 whitenoise
 dj-database-url
-psycopg[binary]
-django-environ
 python-dotenv
+django-environ
+gunicorn
